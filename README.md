@@ -24,6 +24,7 @@ The goal is to provide actionable business insights to improve sales, retention,
 - Data Visualization
 
 ## 📂 Repository Structure
+```
 E-Commerce-Customer-Behavior-Analysis/
 │
 ├── data/ # Dataset
@@ -32,6 +33,7 @@ E-Commerce-Customer-Behavior-Analysis/
 ├── presentation/ # Final presentation
 ├── README.md # Project documentation
 └── requirements.txt # List of dependencies
+```
 
 ## 📊 Sample Visualizations
 ![Device Usage](device_user.png)
